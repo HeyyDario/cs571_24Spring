@@ -1,0 +1,10 @@
+{
+    "name": {
+        "first": "Chengtao",
+        "last": "Dai"
+    },
+    "fromWisconsin": false,
+    "numCredits": 16,
+    "major": "Computer Science",
+    "interests": ["Basketball", "Video games", "Desserts", "Dogs and cats"]
+}
